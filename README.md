@@ -1,4 +1,4 @@
-# AWS Lab: Resiliência e Failover de DNS com Amazon Route 53 no Console AWS
+﻿# Lab AWS - Alta Disponibilidade e Roteamento de Failover com Amazon Route 53
 
 Prática realizada durante a formação **AWS re/Start (Escola da Nuvem)** com foco em alta disponibilidade, continuidade de negócios e contingência entre servidores.
 
